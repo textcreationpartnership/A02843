@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon of the stewards danger preached at Paules Crosse the 15. of August by Iohn Hayward ; and no
+
 #####Body#####
-A sermon of the stewards danger preached at Paules Crosse the 15. of August by Iohn Hayward ; and no
+
+1. THE STEWARDS DANGER.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
